@@ -1,1 +1,1 @@
-Software web application for done ai case study
+Software web application for done ai sample case study
